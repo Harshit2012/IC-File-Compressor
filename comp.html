@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File Compressor</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="comp.css">
+    <link rel="icon" href="logo.jpg">
+</head>
+<body>
+    <div class="container text-center">
+        <img src="logo.jpg" alt="offline" id="logo">
+        <h1 class="mb-4">IC: File Compressor</h1>
+        <input type="file" id="fileInput" class="form-control pb-5 mb-2">
+        <button id="compressBtn" class="btn btn-dynamic">Compress File</button>
+
+        <div id="fileContents" class="mt-3"></div>
+        <a id="downloadLink" style="display: none;">
+            <button class="btn btn-dynamic mt-2">Download Compressed File</button>
+        </a>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="comp.js"></script>
+</body>
+</html>

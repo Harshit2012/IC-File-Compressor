@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-weight: 400;
+}
+
+#logo {
+    height: 100px;
+    width: 100px;
+    border: none;
+    outline: none;
+    border-radius: 50%;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+button {
+    transition: all ease-in 1s;
+}
+
+button:hover {
+    transform: scale(1.1);
+}
+
+#intro {
+    display: flex;
+    padding: 50px;
+    border: 10px solid white;
+    border-radius: 30px;
+}
+
+#file_img {
+    height: 200px;
+    width: 200px;
+    border: none;
+    outline: none;
+    border-radius: 50%;
+}
+
+#info {
+    margin-right: 100px;
+    margin-left: 300px;
+}

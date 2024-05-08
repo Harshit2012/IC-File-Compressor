@@ -1,0 +1,43 @@
+body {
+    padding-top: 50px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
+    font-weight: 400;
+}
+
+#logo {
+    height: 100px;
+    width: 100px;
+    border: none;
+    outline: none;
+    border-radius: 50%;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+}
+
+.btn-dynamic {
+    background-color: DodgerBlue;
+    color: white;
+    padding: 12px 30px;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+    transition: background-color 0.3s;
+}
+
+.btn-dynamic:hover {
+    background-color: RoyalBlue;
+}
+
+#fileContents {
+    white-space: pre-wrap;
+    background-color: black;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
