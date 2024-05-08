@@ -5,6 +5,11 @@
 # IC-File-Compressor⚙️
 IC is a file compressor. It compress file in no time. Text only.
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Harshit2012/IC-File-Compressor?tab=MIT-1-ov-file#readme)
+![GitHub Release](https://img.shields.io/github/v/release/harshit2012/ic-file-compressor)
+![Forks](https://img.shields.io/github/forks/harshit2012/ic-file-compressor)
+![Stars](https://img.shields.io/github/stars/harshit2012/ic-file-compressor)
+
 ## Features✨
 - User friendly design
 - Instant Compression
