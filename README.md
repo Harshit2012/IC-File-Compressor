@@ -9,7 +9,7 @@ IC is a file compressor. It compress file in no time. Text only.
 ![GitHub Release](https://img.shields.io/github/v/release/harshit2012/ic-file-compressor)
 ![Forks](https://img.shields.io/github/forks/harshit2012/ic-file-compressor)
 ![Stars](https://img.shields.io/github/stars/harshit2012/ic-file-compressor)
-![GitHub watchers](https://img.shields.io/github/watchers/harshit2012/ic-file-compressor)
+![Watchers](https://img.shields.io/github/watchers/harshit2012/ic-file-compressor)
 
 ## Features✨
 - User friendly design
